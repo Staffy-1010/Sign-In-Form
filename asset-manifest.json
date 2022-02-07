@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sign-In-Form/static/css/main.105f6949.css",
-    "main.js": "/Sign-In-Form/static/js/main.c4aca240.js",
+    "main.js": "/Sign-In-Form/static/js/main.dc77b4c9.js",
     "static/media/v1.mp4": "/Sign-In-Form/static/media/v1.d74b01376e83f263bac9.mp4",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Sign-In-Form/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Sign-In-Form/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,10 +10,10 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Sign-In-Form/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Sign-In-Form/index.html",
     "main.105f6949.css.map": "/Sign-In-Form/static/css/main.105f6949.css.map",
-    "main.c4aca240.js.map": "/Sign-In-Form/static/js/main.c4aca240.js.map"
+    "main.dc77b4c9.js.map": "/Sign-In-Form/static/js/main.dc77b4c9.js.map"
   },
   "entrypoints": [
     "static/css/main.105f6949.css",
-    "static/js/main.c4aca240.js"
+    "static/js/main.dc77b4c9.js"
   ]
 }
