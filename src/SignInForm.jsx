@@ -80,7 +80,7 @@ function Form() {
       }
       SetIsSubmitting(true)
       register(Email,Password).then((res)=>{
-        Alert("User Signed-In Successfully")
+        alert("User Signed-In Successfully")
         SetEmail("")
       SetPassword("")
       }
